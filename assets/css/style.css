@@ -1,0 +1,28 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background: url("../images/xiaomi-mi-gaming-laptop-stock-4k-nx.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+
+.item {
+	position:relative; 
+	max-width:100%; 
+	margin: 0 auto; 
+	padding: 0px 10px 0px 10px
+}
+
+#results-div {
+	position:relative; 
+	width:100%;
+	max-width: 100%; 
+	margin: 0 auto; 
+	padding: 20px; 
+	text-align:center;
+}
+
+h5, h1 {
+	text-align: center;
+}
